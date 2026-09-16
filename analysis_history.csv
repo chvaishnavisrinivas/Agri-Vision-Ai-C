@@ -1,0 +1,11 @@
+Date,Time,Analysis Type,Crop Health,Stress Level,NDVI,Moisture,Chlorophyll,AI Confidence,Recommendation
+2026-09-14,14:14:25,Multispectral NDVI Analysis,Weak Vegetation,High,0.1386,56.93,13.86,,"Crop needs attention. Check irrigation, nutrients, and possible disease symptoms."
+2026-09-14,14:19:02,Multispectral NDVI Analysis,Weak Vegetation,High,0.1386,56.93,13.86,,"Crop needs attention. Check irrigation, nutrients, and possible disease symptoms."
+2026-09-14,14:37:34,Multispectral NDVI Analysis,Weak Vegetation,High,0.1386,56.93,13.86,,"Crop needs attention. Check irrigation, nutrients, and possible disease symptoms."
+2026-09-14,14:42:00,Multispectral NDVI Analysis,Weak Vegetation,High,0.1386,56.93,13.86,,"Crop needs attention. Check irrigation, nutrients, and possible disease symptoms."
+2026-09-14,14:48:10,Multispectral NDVI Analysis,Weak Vegetation,High,0.1386,56.93,13.86,,"Crop needs attention. Check irrigation, nutrients, and possible disease symptoms."
+2026-09-14,15:46:32,AI-Based RGB Crop Region Analysis,Stressed,High,,,,62.67,"Crop needs attention. Check irrigation, nutrients, and possible disease symptoms."
+2026-09-14,15:48:38,AI-Based RGB Crop Region Analysis,Stressed,High,,,,57.33,"Crop needs attention. Check irrigation, nutrients, and possible disease symptoms."
+2026-09-14,15:49:11,Multispectral NDVI Analysis,Weak Vegetation,High,0.1386,56.93,13.86,,"Crop needs attention. Check irrigation, nutrients, and possible disease symptoms."
+2026-09-14,15:57:15,Multispectral NDVI Analysis,Weak Vegetation,High,0.1386,56.93,13.86,,"Crop needs attention. Check irrigation, nutrients, and possible disease symptoms."
+2026-09-14,16:06:08,Multispectral NDVI Analysis,Weak Vegetation,High,0.1386,56.93,13.86,,"Crop needs attention. Check irrigation, nutrients, and possible disease symptoms."
